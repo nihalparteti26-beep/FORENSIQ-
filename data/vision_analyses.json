@@ -1,0 +1,747 @@
+{
+  "VIS-MVUYNXMU": {
+    "analysisId": "VIS-MVUYNXMU",
+    "fileName": "inkloom_compliant_banner_0A4D8C.png",
+    "imagePath": "/uploads/VIS-MVUYNXMU-inkloom_compliant_banner_0A4D8C.png",
+    "fileSize": 1986,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#0A4D8C",
+        "rgb": [
+          10,
+          77,
+          140
+        ],
+        "percentage": 100,
+        "isOffBrand": false,
+        "deltaE": 0
+      }
+    ],
+    "complianceScore": 100,
+    "overallStatus": "PASS",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [],
+    "analyzedAt": "2026-10-30T12:41:11.506Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUYNXP6": {
+    "analysisId": "VIS-MVUYNXP6",
+    "fileName": "inkloom_offshade_banner_0A5D9C.png",
+    "imagePath": "/uploads/VIS-MVUYNXP6-inkloom_offshade_banner_0A5D9C.png",
+    "fileSize": 2013,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#0A5D9C",
+        "rgb": [
+          10,
+          93,
+          156
+        ],
+        "percentage": 87,
+        "isOffBrand": true,
+        "deltaE": 7.1
+      },
+      {
+        "hex": "#EF4444",
+        "rgb": [
+          239,
+          68,
+          68
+        ],
+        "percentage": 13,
+        "isOffBrand": false,
+        "deltaE": 101.4
+      }
+    ],
+    "complianceScore": 70,
+    "overallStatus": "CONDITIONAL",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [
+      {
+        "id": "FND-COL-1793364071541",
+        "ruleId": "BRAND-VIS-01",
+        "category": "Color Compliance",
+        "severity": "medium",
+        "title": "Off-Brand Color Shade Detected (#0A5D9C)",
+        "expectedValue": "Inkloom Executive Blue (#0A4D8C)",
+        "measuredValue": "#0A5D9C (Observed ΔE = 7.1)",
+        "deltaE": 7.1,
+        "confidence": 0.99,
+        "explanation": "Dominant background color deviates from verified brand palette. Perceptual color distance ΔE of 7.1 exceeds maximum tolerance threshold of 3.",
+        "suggestedFix": "Re-color graphic background fill from #0A5D9C to approved brand hex #0A4D8C.",
+        "bbox": [
+          0,
+          0,
+          1000,
+          1000
+        ]
+      }
+    ],
+    "analyzedAt": "2026-10-30T12:41:11.541Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUYNXQ4": {
+    "analysisId": "VIS-MVUYNXQ4",
+    "fileName": "inkloom_offshade_banner_1A6DB5.png",
+    "imagePath": "/uploads/VIS-MVUYNXQ4-inkloom_offshade_banner_1A6DB5.png",
+    "fileSize": 2014,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#1A6DB5",
+        "rgb": [
+          26,
+          109,
+          181
+        ],
+        "percentage": 87,
+        "isOffBrand": true,
+        "deltaE": 13.6
+      },
+      {
+        "hex": "#EF4444",
+        "rgb": [
+          239,
+          68,
+          68
+        ],
+        "percentage": 13,
+        "isOffBrand": false,
+        "deltaE": 101.4
+      }
+    ],
+    "complianceScore": 70,
+    "overallStatus": "CONDITIONAL",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [
+      {
+        "id": "FND-COL-1793364071573",
+        "ruleId": "BRAND-VIS-01",
+        "category": "Color Compliance",
+        "severity": "high",
+        "title": "Off-Brand Color Shade Detected (#1A6DB5)",
+        "expectedValue": "Inkloom Executive Blue (#0A4D8C)",
+        "measuredValue": "#1A6DB5 (Observed ΔE = 13.6)",
+        "deltaE": 13.6,
+        "confidence": 0.99,
+        "explanation": "Dominant background color deviates from verified brand palette. Perceptual color distance ΔE of 13.6 exceeds maximum tolerance threshold of 3.",
+        "suggestedFix": "Re-color graphic background fill from #1A6DB5 to approved brand hex #0A4D8C.",
+        "bbox": [
+          0,
+          0,
+          1000,
+          1000
+        ]
+      }
+    ],
+    "analyzedAt": "2026-10-30T12:41:11.574Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUZ3KSU": {
+    "analysisId": "VIS-MVUZ3KSU",
+    "fileName": "inkloom_compliant_banner_0A4D8C.png",
+    "imagePath": "/uploads/VIS-MVUZ3KSU-inkloom_compliant_banner_0A4D8C.png",
+    "fileSize": 1986,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#0A4D8C",
+        "rgb": [
+          10,
+          77,
+          140
+        ],
+        "percentage": 100,
+        "isOffBrand": false,
+        "deltaE": 0
+      }
+    ],
+    "complianceScore": 100,
+    "overallStatus": "PASS",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [],
+    "analyzedAt": "2026-10-30T12:53:21.351Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUZ3KUO": {
+    "analysisId": "VIS-MVUZ3KUO",
+    "fileName": "inkloom_offshade_banner_0A5D9C.png",
+    "imagePath": "/uploads/VIS-MVUZ3KUO-inkloom_offshade_banner_0A5D9C.png",
+    "fileSize": 2013,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#0A5D9C",
+        "rgb": [
+          10,
+          93,
+          156
+        ],
+        "percentage": 87,
+        "isOffBrand": true,
+        "deltaE": 7.1
+      },
+      {
+        "hex": "#EF4444",
+        "rgb": [
+          239,
+          68,
+          68
+        ],
+        "percentage": 13,
+        "isOffBrand": false,
+        "deltaE": 101.4
+      }
+    ],
+    "complianceScore": 70,
+    "overallStatus": "CONDITIONAL",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [
+      {
+        "id": "FND-COL-1793364801380",
+        "ruleId": "BRAND-VIS-01",
+        "category": "Color Compliance",
+        "severity": "medium",
+        "title": "Off-Brand Color Shade Detected (#0A5D9C)",
+        "expectedValue": "Inkloom Executive Blue (#0A4D8C)",
+        "measuredValue": "#0A5D9C (Observed ΔE = 7.1)",
+        "deltaE": 7.1,
+        "confidence": 0.99,
+        "explanation": "Dominant background color deviates from verified brand palette. Perceptual color distance ΔE of 7.1 exceeds maximum tolerance threshold of 3.",
+        "suggestedFix": "Re-color graphic background fill from #0A5D9C to approved brand hex #0A4D8C.",
+        "bbox": [
+          0,
+          0,
+          1000,
+          1000
+        ]
+      }
+    ],
+    "analyzedAt": "2026-10-30T12:53:21.380Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUZ3KVE": {
+    "analysisId": "VIS-MVUZ3KVE",
+    "fileName": "inkloom_offshade_banner_1A6DB5.png",
+    "imagePath": "/uploads/VIS-MVUZ3KVE-inkloom_offshade_banner_1A6DB5.png",
+    "fileSize": 2014,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#1A6DB5",
+        "rgb": [
+          26,
+          109,
+          181
+        ],
+        "percentage": 87,
+        "isOffBrand": true,
+        "deltaE": 13.6
+      },
+      {
+        "hex": "#EF4444",
+        "rgb": [
+          239,
+          68,
+          68
+        ],
+        "percentage": 13,
+        "isOffBrand": false,
+        "deltaE": 101.4
+      }
+    ],
+    "complianceScore": 70,
+    "overallStatus": "CONDITIONAL",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [
+      {
+        "id": "FND-COL-1793364801406",
+        "ruleId": "BRAND-VIS-01",
+        "category": "Color Compliance",
+        "severity": "high",
+        "title": "Off-Brand Color Shade Detected (#1A6DB5)",
+        "expectedValue": "Inkloom Executive Blue (#0A4D8C)",
+        "measuredValue": "#1A6DB5 (Observed ΔE = 13.6)",
+        "deltaE": 13.6,
+        "confidence": 0.99,
+        "explanation": "Dominant background color deviates from verified brand palette. Perceptual color distance ΔE of 13.6 exceeds maximum tolerance threshold of 3.",
+        "suggestedFix": "Re-color graphic background fill from #1A6DB5 to approved brand hex #0A4D8C.",
+        "bbox": [
+          0,
+          0,
+          1000,
+          1000
+        ]
+      }
+    ],
+    "analyzedAt": "2026-10-30T12:53:21.406Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUZNTQ9": {
+    "analysisId": "VIS-MVUZNTQ9",
+    "fileName": "inkloom_compliant_banner_0A4D8C.png",
+    "imagePath": "/uploads/VIS-MVUZNTQ9-inkloom_compliant_banner_0A4D8C.png",
+    "fileSize": 1986,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#0A4D8C",
+        "rgb": [
+          10,
+          77,
+          140
+        ],
+        "percentage": 100,
+        "isOffBrand": false,
+        "deltaE": 0
+      }
+    ],
+    "complianceScore": 100,
+    "overallStatus": "PASS",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [],
+    "analyzedAt": "2026-10-30T13:09:06.030Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUZNTRQ": {
+    "analysisId": "VIS-MVUZNTRQ",
+    "fileName": "inkloom_offshade_banner_0A5D9C.png",
+    "imagePath": "/uploads/VIS-MVUZNTRQ-inkloom_offshade_banner_0A5D9C.png",
+    "fileSize": 2013,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#0A5D9C",
+        "rgb": [
+          10,
+          93,
+          156
+        ],
+        "percentage": 87,
+        "isOffBrand": true,
+        "deltaE": 7.1
+      },
+      {
+        "hex": "#EF4444",
+        "rgb": [
+          239,
+          68,
+          68
+        ],
+        "percentage": 13,
+        "isOffBrand": false,
+        "deltaE": 101.4
+      }
+    ],
+    "complianceScore": 70,
+    "overallStatus": "CONDITIONAL",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [
+      {
+        "id": "FND-COL-1793365746055",
+        "ruleId": "BRAND-VIS-01",
+        "category": "Color Compliance",
+        "severity": "medium",
+        "title": "Off-Brand Color Shade Detected (#0A5D9C)",
+        "expectedValue": "Inkloom Executive Blue (#0A4D8C)",
+        "measuredValue": "#0A5D9C (Observed ΔE = 7.1)",
+        "deltaE": 7.1,
+        "confidence": 0.99,
+        "explanation": "Dominant background color deviates from verified brand palette. Perceptual color distance ΔE of 7.1 exceeds maximum tolerance threshold of 3.",
+        "suggestedFix": "Re-color graphic background fill from #0A5D9C to approved brand hex #0A4D8C.",
+        "bbox": [
+          0,
+          0,
+          1000,
+          1000
+        ]
+      }
+    ],
+    "analyzedAt": "2026-10-30T13:09:06.056Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUZNTSE": {
+    "analysisId": "VIS-MVUZNTSE",
+    "fileName": "inkloom_offshade_banner_1A6DB5.png",
+    "imagePath": "/uploads/VIS-MVUZNTSE-inkloom_offshade_banner_1A6DB5.png",
+    "fileSize": 2014,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#1A6DB5",
+        "rgb": [
+          26,
+          109,
+          181
+        ],
+        "percentage": 87,
+        "isOffBrand": true,
+        "deltaE": 13.6
+      },
+      {
+        "hex": "#EF4444",
+        "rgb": [
+          239,
+          68,
+          68
+        ],
+        "percentage": 13,
+        "isOffBrand": false,
+        "deltaE": 101.4
+      }
+    ],
+    "complianceScore": 70,
+    "overallStatus": "CONDITIONAL",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [
+      {
+        "id": "FND-COL-1793365746076",
+        "ruleId": "BRAND-VIS-01",
+        "category": "Color Compliance",
+        "severity": "high",
+        "title": "Off-Brand Color Shade Detected (#1A6DB5)",
+        "expectedValue": "Inkloom Executive Blue (#0A4D8C)",
+        "measuredValue": "#1A6DB5 (Observed ΔE = 13.6)",
+        "deltaE": 13.6,
+        "confidence": 0.99,
+        "explanation": "Dominant background color deviates from verified brand palette. Perceptual color distance ΔE of 13.6 exceeds maximum tolerance threshold of 3.",
+        "suggestedFix": "Re-color graphic background fill from #1A6DB5 to approved brand hex #0A4D8C.",
+        "bbox": [
+          0,
+          0,
+          1000,
+          1000
+        ]
+      }
+    ],
+    "analyzedAt": "2026-10-30T13:09:06.076Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUZYSX0": {
+    "analysisId": "VIS-MVUZYSX0",
+    "fileName": "inkloom_compliant_banner_0A4D8C.png",
+    "imagePath": "/uploads/VIS-MVUZYSX0-inkloom_compliant_banner_0A4D8C.png",
+    "fileSize": 1986,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#0A4D8C",
+        "rgb": [
+          10,
+          77,
+          140
+        ],
+        "percentage": 100,
+        "isOffBrand": false,
+        "deltaE": 0
+      }
+    ],
+    "complianceScore": 100,
+    "overallStatus": "PASS",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [],
+    "analyzedAt": "2026-10-30T13:17:38.183Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUZYSY7": {
+    "analysisId": "VIS-MVUZYSY7",
+    "fileName": "inkloom_offshade_banner_0A5D9C.png",
+    "imagePath": "/uploads/VIS-MVUZYSY7-inkloom_offshade_banner_0A5D9C.png",
+    "fileSize": 2013,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#0A5D9C",
+        "rgb": [
+          10,
+          93,
+          156
+        ],
+        "percentage": 87,
+        "isOffBrand": true,
+        "deltaE": 7.1
+      },
+      {
+        "hex": "#EF4444",
+        "rgb": [
+          239,
+          68,
+          68
+        ],
+        "percentage": 13,
+        "isOffBrand": false,
+        "deltaE": 101.4
+      }
+    ],
+    "complianceScore": 70,
+    "overallStatus": "CONDITIONAL",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [
+      {
+        "id": "FND-COL-1793366258209",
+        "ruleId": "BRAND-VIS-01",
+        "category": "Color Compliance",
+        "severity": "medium",
+        "title": "Off-Brand Color Shade Detected (#0A5D9C)",
+        "expectedValue": "Inkloom Executive Blue (#0A4D8C)",
+        "measuredValue": "#0A5D9C (Observed ΔE = 7.1)",
+        "deltaE": 7.1,
+        "confidence": 0.99,
+        "explanation": "Dominant background color deviates from verified brand palette. Perceptual color distance ΔE of 7.1 exceeds maximum tolerance threshold of 3.",
+        "suggestedFix": "Re-color graphic background fill from #0A5D9C to approved brand hex #0A4D8C.",
+        "bbox": [
+          0,
+          0,
+          1000,
+          1000
+        ]
+      }
+    ],
+    "analyzedAt": "2026-10-30T13:17:38.209Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUZYSYV": {
+    "analysisId": "VIS-MVUZYSYV",
+    "fileName": "inkloom_offshade_banner_1A6DB5.png",
+    "imagePath": "/uploads/VIS-MVUZYSYV-inkloom_offshade_banner_1A6DB5.png",
+    "fileSize": 2014,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#1A6DB5",
+        "rgb": [
+          26,
+          109,
+          181
+        ],
+        "percentage": 87,
+        "isOffBrand": true,
+        "deltaE": 13.6
+      },
+      {
+        "hex": "#EF4444",
+        "rgb": [
+          239,
+          68,
+          68
+        ],
+        "percentage": 13,
+        "isOffBrand": false,
+        "deltaE": 101.4
+      }
+    ],
+    "complianceScore": 70,
+    "overallStatus": "CONDITIONAL",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [
+      {
+        "id": "FND-COL-1793366258233",
+        "ruleId": "BRAND-VIS-01",
+        "category": "Color Compliance",
+        "severity": "high",
+        "title": "Off-Brand Color Shade Detected (#1A6DB5)",
+        "expectedValue": "Inkloom Executive Blue (#0A4D8C)",
+        "measuredValue": "#1A6DB5 (Observed ΔE = 13.6)",
+        "deltaE": 13.6,
+        "confidence": 0.99,
+        "explanation": "Dominant background color deviates from verified brand palette. Perceptual color distance ΔE of 13.6 exceeds maximum tolerance threshold of 3.",
+        "suggestedFix": "Re-color graphic background fill from #1A6DB5 to approved brand hex #0A4D8C.",
+        "bbox": [
+          0,
+          0,
+          1000,
+          1000
+        ]
+      }
+    ],
+    "analyzedAt": "2026-10-30T13:17:38.233Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUZZYJP": {
+    "analysisId": "VIS-MVUZZYJP",
+    "fileName": "inkloom_compliant_banner_0A4D8C.png",
+    "imagePath": "/uploads/VIS-MVUZZYJP-inkloom_compliant_banner_0A4D8C.png",
+    "fileSize": 1986,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#0A4D8C",
+        "rgb": [
+          10,
+          77,
+          140
+        ],
+        "percentage": 100,
+        "isOffBrand": false,
+        "deltaE": 0
+      }
+    ],
+    "complianceScore": 100,
+    "overallStatus": "PASS",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [],
+    "analyzedAt": "2026-10-30T13:18:32.133Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUZZYKR": {
+    "analysisId": "VIS-MVUZZYKR",
+    "fileName": "inkloom_offshade_banner_0A5D9C.png",
+    "imagePath": "/uploads/VIS-MVUZZYKR-inkloom_offshade_banner_0A5D9C.png",
+    "fileSize": 2013,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#0A5D9C",
+        "rgb": [
+          10,
+          93,
+          156
+        ],
+        "percentage": 87,
+        "isOffBrand": true,
+        "deltaE": 7.1
+      },
+      {
+        "hex": "#EF4444",
+        "rgb": [
+          239,
+          68,
+          68
+        ],
+        "percentage": 13,
+        "isOffBrand": false,
+        "deltaE": 101.4
+      }
+    ],
+    "complianceScore": 70,
+    "overallStatus": "CONDITIONAL",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [
+      {
+        "id": "FND-COL-1793366312160",
+        "ruleId": "BRAND-VIS-01",
+        "category": "Color Compliance",
+        "severity": "medium",
+        "title": "Off-Brand Color Shade Detected (#0A5D9C)",
+        "expectedValue": "Inkloom Executive Blue (#0A4D8C)",
+        "measuredValue": "#0A5D9C (Observed ΔE = 7.1)",
+        "deltaE": 7.1,
+        "confidence": 0.99,
+        "explanation": "Dominant background color deviates from verified brand palette. Perceptual color distance ΔE of 7.1 exceeds maximum tolerance threshold of 3.",
+        "suggestedFix": "Re-color graphic background fill from #0A5D9C to approved brand hex #0A4D8C.",
+        "bbox": [
+          0,
+          0,
+          1000,
+          1000
+        ]
+      }
+    ],
+    "analyzedAt": "2026-10-30T13:18:32.160Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  },
+  "VIS-MVUZZYLJ": {
+    "analysisId": "VIS-MVUZZYLJ",
+    "fileName": "inkloom_offshade_banner_1A6DB5.png",
+    "imagePath": "/uploads/VIS-MVUZZYLJ-inkloom_offshade_banner_1A6DB5.png",
+    "fileSize": 2014,
+    "dimensions": {
+      "width": 800,
+      "height": 400
+    },
+    "dominantColors": [
+      {
+        "hex": "#1A6DB5",
+        "rgb": [
+          26,
+          109,
+          181
+        ],
+        "percentage": 87,
+        "isOffBrand": true,
+        "deltaE": 13.6
+      },
+      {
+        "hex": "#EF4444",
+        "rgb": [
+          239,
+          68,
+          68
+        ],
+        "percentage": 13,
+        "isOffBrand": false,
+        "deltaE": 101.4
+      }
+    ],
+    "complianceScore": 70,
+    "overallStatus": "CONDITIONAL",
+    "extractedText": "Inkloom Enterprise Brand Governance Platform — Automated AST Pre-Flight",
+    "findings": [
+      {
+        "id": "FND-COL-1793366312187",
+        "ruleId": "BRAND-VIS-01",
+        "category": "Color Compliance",
+        "severity": "high",
+        "title": "Off-Brand Color Shade Detected (#1A6DB5)",
+        "expectedValue": "Inkloom Executive Blue (#0A4D8C)",
+        "measuredValue": "#1A6DB5 (Observed ΔE = 13.6)",
+        "deltaE": 13.6,
+        "confidence": 0.99,
+        "explanation": "Dominant background color deviates from verified brand palette. Perceptual color distance ΔE of 13.6 exceeds maximum tolerance threshold of 3.",
+        "suggestedFix": "Re-color graphic background fill from #1A6DB5 to approved brand hex #0A4D8C.",
+        "bbox": [
+          0,
+          0,
+          1000,
+          1000
+        ]
+      }
+    ],
+    "analyzedAt": "2026-10-30T13:18:32.187Z",
+    "engineUsed": "local-perceptual-vision-engine"
+  }
+}

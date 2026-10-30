@@ -1,0 +1,56 @@
+{
+  "name": "forensiq-brand-intelligence-os",
+  "version": "2.4.0",
+  "type": "module",
+  "description": "FORENSIQ · An Intelligent Brand Governance OS that treats every claim like code - with version, evidence, expiry, and impact graph.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo 'Production bundle compiled into public/'",
+    "test": "node test_all.js && node test_compiler.js && node tests/api_verification.test.js && node tests/round3_features.test.js",
+    "test:api": "node tests/api_verification.test.js",
+    "test:round3": "node tests/round3_features.test.js",
+    "generate:samples": "node scripts/generate_samples.js"
+  },
+  "keywords": [
+    "brand-governance",
+    "brand-intelligence",
+    "compliance",
+    "multi-agent",
+    "react-flow",
+    "drift-radar",
+    "ast-compiler"
+  ],
+  "author": "FORENSIQ Engineering Team",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@qdrant/js-client-rest": "^1.20.0",
+    "@xyflow/react": "^12.12.0",
+    "clsx": "^2.1.1",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "jpeg-js": "^0.4.4",
+    "lucide-react": "^0.378.0",
+    "multer": "^2.5.0",
+    "neo4j-driver": "^6.2.0",
+    "next": "^14.2.0",
+    "pdf-parse": "^2.4.5",
+    "pngjs": "^7.0.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "recharts": "^2.12.0",
+    "tailwind-merge": "^2.3.0",
+    "ws": "^8.22.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.4.5"
+  }
+}
