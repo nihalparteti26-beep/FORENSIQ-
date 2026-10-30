@@ -1,7 +1,7 @@
 # FORENSIQ · Brand Intelligence OS (Round 3 Complete)
 ### *An Intelligent Brand Governance OS that treats every claim like code — with version, evidence, expiry, and live impact graph.*
 
-**Live Prototype URL:** [https://forensiq-brand-intelligence-os.onrender.com/](https://forensiq-brand-intelligence-os.onrender.com/)
+**Live Prototype URL:** https://forensiq-td65.onrender.com
 
 ---
 
